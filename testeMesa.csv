@@ -1,0 +1,28 @@
+calculateSalary();let;return;
+totalVendas<=1200;totalVendas + (comissao1porcento * 3);total1;
+totalVendas > 1200;totalVendas + (comissao1porcento * 5);total2;
+;;;
+cashMachine( );i;i < valorSaque.length;return
+valorSaque;0;200;200
+valorSaque;200;200;200
+valorSaque;200;400;400
+valorSaque;100;500;500
+valorSaque;50;550;550
+;;;
+calculateStock( );i;i < x.length;return
+estoque;1;i >= 1 && i < quantidadeMaxima;`Efetuar compra`
+estoque;2;i >= 1 && i < quantidadeMaxima;`Efetuar compra`
+estoque;3;i >= 1 && i < quantidadeMaxima;`Efetuar compra`
+estoque;4;i >= quantidadeMaxima;`Não efetuar compra`
+estoque;5;i >= quantidadeMaxima;`Não efetuar compra`
+;;;
+calculateAge(x,y);idade;" * valor";return
+x, y;24;"idade ";24
+x, y;24;idade * 12;288
+x, y;24;idade * 365;8760
+x, y;24;idade * 52;1248
+;;;
+getDiagonal( );resultado.push;return;
+matrizQuadrada;[0][0];1;
+matrizQuadrada;[1][1];5;
+matrizQuadrada;[2][2];9;
